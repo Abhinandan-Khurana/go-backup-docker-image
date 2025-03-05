@@ -39,7 +39,7 @@ go install -v github.com/Abhinandan-Khurana/go-backup-docker-image@latest
 
 ### From Source
 
-# Clone the repository (or create main.go from the provided code)
+# Clone the repository
 ```bash
 git clone https://github.com/Abhinandan-Khurana/go-backup-docker-image.git
 cd go-backup-docker-image
